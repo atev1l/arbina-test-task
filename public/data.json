@@ -1,0 +1,142 @@
+[
+  {
+    "username": "user-001",
+    "action": "logged_in",
+    "action_createad_at": "2022-05-08T07:01:09.171245Z"
+  }, {
+  "username": "user-001",
+  "action": "button_sign_in_tapped",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-001",
+    "action": "button_top_click",
+    "action_createad_at": "2022-05-08T07:03:09.171245Z"
+  }, {
+  "username": "user-002",
+  "action": "button_open_cart",
+  "action_createad_at": "2022-05-08T07:13:09.171245Z"
+},
+  {
+    "username": "user-002",
+    "action": "button_bot_click",
+    "action_createad_at": "2022-05-08T07:11:07.171245Z"
+  }, {
+  "username": "user-002",
+  "action": "button_write_message",
+  "action_createad_at": "2022-05-08T07:13:09.171245Z"
+},
+  {
+    "username": "user-003",
+    "action": "button_log_out_tapped",
+    "action_createad_at": "2022-05-08T07:11:07.171245Z"
+  }, {
+  "username": "user-003",
+  "action": "button_sign_in_tapped",
+  "action_createad_at": "2022-05-08T07:13:09.171245Z"
+},
+  {
+    "username": "user-003",
+    "action": "button_log_out_tapped",
+    "action_createad_at": "2022-05-08T07:11:07.171245Z"
+  }, {
+  "username": "user-004",
+  "action": "button_sign_in_tapped",
+  "action_createad_at": "2022-04-10T07:13:09.171245Z"
+},
+  {
+    "username": "user-004",
+    "action": "button_top_click",
+    "action_createad_at": "2022-04-09T07:11:07.171245Z"
+  }, {
+  "username": "user-004",
+  "action": "button_open_cart",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-005",
+    "action": "button_bot_click",
+    "action_createad_at": "2022-05-08T07:15:19.171245Z"
+  }, {
+  "username": "user-005",
+  "action": "button_write_message",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-005",
+    "action": "button_log_out_tapped",
+    "action_createad_at": "2022-05-08T07:15:19.171245Z"
+  }, {
+  "username": "user-006",
+  "action": "button_sign_in_tapped",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-006",
+    "action": "button_log_out_tapped",
+    "action_createad_at": "2022-05-08T07:15:19.171245Z"
+  }, {
+  "username": "user-006",
+  "action": "button_sign_in_tapped",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-007",
+    "action": "button_top_click",
+    "action_createad_at": "2022-05-08T07:15:19.171245Z"
+  }, {
+  "username": "user-007",
+  "action": "button_open_cart",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-009",
+    "action": "button_bot_click",
+    "action_createad_at": "2022-05-08T07:03:09.171245Z"
+  }, {
+  "username": "user-010",
+  "action": "button_write_message",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-011",
+    "action": "button_log_out_tapped",
+    "action_createad_at": "2022-05-08T07:03:09.171245Z"
+  }, {
+  "username": "user-012",
+  "action": "button_sign_in_tapped",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-013",
+    "action": "button_top_click",
+    "action_createad_at": "2022-05-08T07:03:09.171245Z"
+  }, {
+  "username": "user-014",
+  "action": "button_open_cart",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-015",
+    "action": "button_bot_click",
+    "action_createad_at": "2022-05-08T07:03:09.171245Z"
+  }, {
+  "username": "user-0043431",
+  "action": "button_write_message",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-0032331",
+    "action": "button_log_out_tapped",
+    "action_createad_at": "2022-05-08T07:03:09.171245Z"
+  }, {
+  "username": "user-044401",
+  "action": "button_sign_in_tapped",
+  "action_createad_at": "2022-05-08T07:02:09.171245Z"
+},
+  {
+    "username": "user-1001",
+    "action": "button_log_out_tapped",
+    "action_createad_at": "2022-05-08T07:03:09.171245Z"
+  }
+]
